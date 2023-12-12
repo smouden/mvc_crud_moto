@@ -1,4 +1,6 @@
- # CRUD MOTO MVC PHP
+<img width="917" alt="image" src="https://github.com/smouden/mvc_crud_moto/assets/127031944/250ce1c2-d852-40c4-a944-385edafc5597">
+
+# CRUD MOTO MVC PHP
 
 ## Présentation
 
